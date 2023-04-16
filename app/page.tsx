@@ -68,7 +68,11 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className={`${inter.className} mb-3 text-2xl font-semibold`}>
+<<<<<<< HEAD
             Server{' '}
+=======
+            Sever{' '}
+>>>>>>> 8f0d1c444d512d99574461a5a60437da59636584
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
